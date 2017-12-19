@@ -1,7 +1,7 @@
 # coursera-uoft-neural-networks
 coursera-uoft-neural-networks
 
-This is main repository for course work as part of Coursera course for [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks/).  I audited this course during a lag in deeplearning.ai specialization course release for Sequence Models.  I also wanted to take a step back and understand previous cited research by Andrew Ng and his "Heroes of deep learning" series.
+This is main repository for course work as part of Coursera course for [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks/).  I took this course during a lag in deeplearning.ai specialization course release for Sequence Models.  I also wanted to take a step back and understand previous cited research by Andrew Ng and his "Heroes of deep learning" series.
 
 ### Instructors
 Geoff Hinton - Professor Computer Science, University of Toronto
@@ -24,7 +24,7 @@ Geoff Hinton - Professor Computer Science, University of Toronto
 - week #3 - simple logistic neuron
 
 ### Related
-- This is foundation course to Andrew Ng's Deeplearning.ai specialization
+- This is foundation course to Andrew Ng's Deeplearning.ai specialization.
 
 ### Future Work
 - Sample key exercises and port to other languages like Python, Scala for more reinforcment (e.g., I did this for week #3)
